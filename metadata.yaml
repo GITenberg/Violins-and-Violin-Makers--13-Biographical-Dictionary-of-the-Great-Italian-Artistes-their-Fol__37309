@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40234'
     url: http://www.gutenberg.org/2009/agents/40234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37309#Violins-and-Violin-Makers--13-Biographical-Dictionary-of-the-Great-Italian-Artistes-their-Fol_
 gutenberg_issued: '2011-09-04'
 gutenberg_type: Text
 identifiers:
