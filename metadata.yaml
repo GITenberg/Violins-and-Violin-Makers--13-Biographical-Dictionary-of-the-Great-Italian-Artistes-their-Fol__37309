@@ -1,0 +1,33 @@
+_repo: Violins-and-Violin-Makers--13-Biographical-Dictionary-of-the-Great-Italian-Artistes-their-Fol__37309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pearce, Joseph
+    gutenberg_agent_id: '40234'
+    url: http://www.gutenberg.org/2009/agents/40234
+description: ''
+gutenberg_issued: '2011-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37309'
+  lccn: 05004927
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Violin makers'
+- !lcsh 'Violin'
+- !lcc 'ML'
+tableOfContents: Preface -- Introduction -- Violin makers, alphabetically arranged
+  -- Bow makers -- Cremona -- Amati family -- Stradiuarius -- On the Cremona varnish
+  -- Guarnerius -- Steiner -- Why are certain violins of more value than others? --
+  On the production of good tone in violins -- Great players and their instruments
+  -- General notes -- Repairs of instruments -- Addenda.
+title: "Violins and Violin Makers\r\nBiographical Dictionary of the Great Italian\
+  \ Artistes, their Followers and Imitators, to the present time. With Essays on Important\
+  \ Subjects Connected with the Violin."
+url: http://www.gutenberg.org/ebooks/37309
